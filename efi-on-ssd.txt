@@ -1,0 +1,24 @@
+GOP #1 of total 2, console - Success
+Current mode 0, max mode 5, FB: B0000000, FBS: 7E9000
+Current: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+0: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+1: 640 x 480, pixel 1 (0 0 0 0), scan: 640
+2: 800 x 600, pixel 1 (0 0 0 0), scan: 800
+3: 1024 x 768, pixel 1 (0 0 0 0), scan: 1024
+4: 1280 x 1024, pixel 1 (0 0 0 0), scan: 1280
+New 0 <-> 0: max mode 5, FB: B0000000, FBS: 7E9000 - Success
+New 0 <-> 0: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+
+
+GOP #2 of total 2, auxiliary - Success
+Current mode 0, max mode 5, FB: B0000000, FBS: 7E9000
+Current: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+0: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+1: 640 x 480, pixel 1 (0 0 0 0), scan: 640
+2: 800 x 600, pixel 1 (0 0 0 0), scan: 800
+3: 1024 x 768, pixel 1 (0 0 0 0), scan: 1024
+4: 1280 x 1024, pixel 1 (0 0 0 0), scan: 1280
+New 0 <-> 0: max mode 5, FB: B0000000, FBS: 7E9000 - Success
+New 0 <-> 0: 1920 x 1080, pixel 1 (0 0 0 0), scan: 1920
+
+
