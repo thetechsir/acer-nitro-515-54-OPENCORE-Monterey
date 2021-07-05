@@ -1,3 +1,4 @@
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/banner-nitro-opencoreGITHUB.png)
 # acer-nitro-515-54-OPENCORE-Monterey
 acer nitro 515-54 monterey working OC 70
 
