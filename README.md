@@ -37,3 +37,13 @@ Select config and dump it in and you’re good to go!
 Quick tip, if you wish to change your data or raid setup in bios, go to the second from right tab, and click ctrl + s and hidden menu will open so you can change it. Unless its set to data you won’t see your drives in linux or Mac unless you use kext data unsupported. I have it in this efi so shunt matter. 
 
 Also, I’ve removed my serials so all you need to do is generate new ones and put them in. Also change for your hardware. But enjoy!
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/1.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/2.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/3.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/4.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/5.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/6.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/7.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/8.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/9.png)
+![alt text](https://github.com/thetechsir/acer-nitro-515-54-OPENCORE-Monterey/blob/main/10.png)
